@@ -1,0 +1,2 @@
+# Weather-Prediction-using-Python-and-Machine-Learning
+In this project, we'll predict tomorrow's temperature using historical data. We'll start by downloading a dataset of local weather and we'll clean the data and get it ready for machine learning. We'll build a system to make historical predictions. Then, we'll add more predictors to improve the model. We'll end with how to make next-day predictions.
